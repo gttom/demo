@@ -1,5 +1,5 @@
 package demo
 
-func sayHi(name string) string {
+func SayHi(name string) string {
 	return "Hi" + name
 }
